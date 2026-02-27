@@ -1,0 +1,17 @@
+{
+  "name": "portafolio-jhon",
+  "version": "1.0.0",
+  "description": "Portafolio profesional de desarrollador Full-Stack",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Proyecto estático - abre index.html en tu navegador'"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "full-stack",
+    "web"
+  ],
+  "author": "Jhon",
+  "license": "MIT"
+}
